@@ -3,6 +3,6 @@
 <div align="left">
 
 <img width="400" src="./m31.png">
-<br>
+<br> 
 
 FMI, see: https://github.com/amoebaOfDoom/subversion
